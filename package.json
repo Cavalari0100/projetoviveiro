@@ -1,0 +1,21 @@
+{
+  "name": "projetoviveiro",
+  "version": "1.0.0",
+  "description": "Projeto para criação de um blog, que permita postagens e acassos a informações via QRcode.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "node",
+    "nodejs",
+    "react"
+  ],
+  "author": "João Vitor Cavalari Spavier, Cientista da computação.",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.26.1",
+    "body-parser": "^1.20.0",
+    "express": "^4.17.3"
+  }
+}
